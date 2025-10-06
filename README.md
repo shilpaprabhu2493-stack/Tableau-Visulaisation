@@ -1,6 +1,5 @@
 # Superstore Sales Dashboard
 
-This portfolio to showcase my Tableau work
 
 This particular dashboard gives the overview of Superstore Sales analyssi for the year 2014 - 2017
 
