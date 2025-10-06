@@ -2,6 +2,7 @@
 This portfolio to showcase my Tableau work
 
 This particular dashboard gives the overview of Superstore Sales analyssi for the year 2014 - 2017
+
 **Project Overview**
 The Superstore Sales Performance Dashboard analyzes four years of sales data to uncover segment-based sales & revenue , top 10 states with highest sales, most profitable ship mode, sales trend over the years across all the regions, regionwise quantity sold 
 
