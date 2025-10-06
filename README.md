@@ -1,4 +1,4 @@
-# Tableau-Visulaisation
+# Superstore Sales Dashboard
 
 This portfolio to showcase my Tableau work
 
