@@ -8,10 +8,15 @@ The Superstore Sales Performance Dashboard analyzes four years of sales data to 
 
 **🛠️ Tech Stack**
 The dashboard was built using the following tools and technologies:
+
 • 📊 Tableau Desktop – Main tool for building  visualizations
+
 • 🗺️ Geo Charts – U.S. map displaying sales distribution by region
+
 • 📈 Trend Chart – To track regiowise-based trends across years
+
 • 📁 File Format – .twb for Tableau workbook and .png for dashboard preview
+
 
 **Goal of the Dashboard**
 To offer a centralized sales analysis picture that reveals:
