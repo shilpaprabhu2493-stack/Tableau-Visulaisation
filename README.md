@@ -41,3 +41,6 @@ The dashboard was built using the following tools and technologies:
 •Detect seasonal performance trends for better forecasting and planning
 
 •Screenshot of the dashboard : Superstore Analysis.png
+
+<img width="1661" height="798" alt="image" src="https://github.com/user-attachments/assets/fc062ebb-713c-409a-b76c-15893edfdd02" />
+
